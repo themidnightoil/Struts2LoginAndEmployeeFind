@@ -15,7 +15,6 @@
 			<s:textfield label="Password" name="password"/><br>
 			<div style= "margin-right: 500px;"><s:submit label = "submit" ></s:submit></div>
 		</form>
-			<p>Your Login (exact case)<br>Username: Fredrick<br> Password: Kumar</p>
 		
 	</div>
 	
